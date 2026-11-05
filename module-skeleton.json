@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-pipelines-vue-inertia",
+  "capabilityKey": "liberusoftware/module-crm-sales-pipelines",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-crm-sales-pipelines-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/sales-pipelines.md",
+  "presentationPlan": "projects/crm/vue/sales-pipelines.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
